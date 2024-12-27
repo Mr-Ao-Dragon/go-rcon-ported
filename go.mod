@@ -1,3 +1,3 @@
-module github.com/jltobler/go-rcon
+module github.com/Mr-Ao-Dragon/go-rcon
 
 go 1.17
